@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Keep_Notes/static/css/main.85bcff3d.css",
+    "main.js": "/Keep_Notes/static/js/main.92a1c952.js",
+    "index.html": "/Keep_Notes/index.html",
+    "static/media/keep_img.PNG": "/Keep_Notes/static/media/keep_img.76fb7120a69843eefb9e.PNG",
+    "static/media/bulb_img.PNG": "/Keep_Notes/static/media/bulb_img.dcd77fff58e2503245a4.PNG",
+    "static/media/delete_img.PNG": "/Keep_Notes/static/media/delete_img.fccdfacace03817c6b0f.PNG",
+    "main.85bcff3d.css.map": "/Keep_Notes/static/css/main.85bcff3d.css.map",
+    "main.92a1c952.js.map": "/Keep_Notes/static/js/main.92a1c952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85bcff3d.css",
+    "static/js/main.92a1c952.js"
+  ]
+}
